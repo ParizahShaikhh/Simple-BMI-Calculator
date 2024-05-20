@@ -1,6 +1,6 @@
 {
   "name": "ps-bmi-calculator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Assignment has been taken from @Panaverse/learn-typescript in baby steps. I have completed BMI Calculator Project to get First Hand experience on Typescript, Node.js and Inquirer.",
   "main": "index.js",
   "type": "module",
